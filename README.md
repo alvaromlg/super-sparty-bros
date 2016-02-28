@@ -1,5 +1,3 @@
-# super-sparty-bros
-
 # Super Sparty Bros
 
 Super Sparty Bro is a final project game made with Unity 5.3.1f1 as a project for the Game Development for Modern Platforms course of the Michigan State University 
